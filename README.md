@@ -1,6 +1,7 @@
 # Quasar App (proclaimcuba)
 
 A Quasar Project
+Website for the "proclaimcuba" ministry. Show videos consuming the youtube api
 
 ## Install the dependencies
 ```bash
